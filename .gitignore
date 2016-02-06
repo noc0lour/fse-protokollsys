@@ -1,3 +1,4 @@
 .*
 *~
-fse_projects/fse_projects/__pycache__
+**/__pycache__
+fse_projects/db.sqlite3
